@@ -1,0 +1,1 @@
+[{"attempt":2,"testName":"Concurrent User Load Time","concurrentUsers":5,"loadTimes":[10734,5755,6582,5537,2699],"averageLoadTime":6261.4,"timestamp":"2024-07-03T04:44:55.268Z"},{"viewport":{"width":320,"height":480},"isResponsive":true},{"viewport":{"width":768,"height":1024},"isResponsive":true},{"viewport":{"width":1440,"height":900},"isResponsive":true}]
